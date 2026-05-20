@@ -19,7 +19,7 @@ size_t	ft_strlcat(char *dst, const char *src, size_t n)
 
 	i = 0;
 	dstlen = ft_strlen(dst);
-	if (dstlen >= n)
+	if (dstlen >= n || n == 0)
 		return (n + ft_strlen(src));
 	while (src[i] != '\0' && (i + dstlen + 1) < n)
 	{
