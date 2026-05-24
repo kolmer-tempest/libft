@@ -57,10 +57,10 @@ Libft is a librabry of essential functions that will be used through out my 42 c
 + ft_lstmap
 
 ## Instructions
-Firstly to compile and create the library, type make in the directory of libft. This will create the file libft.a that can be used to compile with other files to use the library.
-To clean the object files type make clean.
-To clean the object files and the libft.a type make fclean.
-To recompile everything type make re.
+Firstly to compile and create the library, type `make` in the directory of libft. This will create the file libft.a that can be used to compile with other files to use the library.
+To clean the object files type `make clean`.
+To clean the object files and the libft.a type `make fclean`.
+To recompile everything type `make re`.
 
 ## Resources
 Linux manuals and C documentation
