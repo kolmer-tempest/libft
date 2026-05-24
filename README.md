@@ -63,11 +63,11 @@ To clean the object files and the libft.a type `make fclean`.
 To recompile everything type `make re`.
 
 ## Resources
-Linux manuals and C documentation
-Code foruns to search for specific error cases
-Code blogs with diferent implementations
-Youtube videos with coding theory and implementation tutorials
-AI was used to research about the subjets and implementation aproches
++ Linux manuals and C documentation
++ Code foruns to search for specific error cases
++ Code blogs with diferent implementations
++ Youtube videos with coding theory and implementation tutorials
++ AI was used to research about the subjets and implementation aproches
 
 ## Testing and debugging
 I tested my project comparing the results of my implementations with the normal functions and with custom testers.
