@@ -1,11 +1,11 @@
 _This project has been created as part of the 42 curriculum by bpires-k._
 # Libft
 ## Description
-Libft is a custom C library of essential functions that will be used throughout my 42 curriculum, that deal with character analysis and manipulation, string manipulation, memory management, type conversion, writing and linked lists manipulation.
+Libft is a custom C library of essential functions that will be used throughout my 42 curriculum and deal with character analysis and manipulation, string manipulation, memory management, type conversion, writing and linked lists manipulation.
 
 ## Features
 
-### Character analisis and manipulation:
+### Character analysis and manipulation:
 + ft_isalpha
 + ft_isdigit
 + ft_isascii
