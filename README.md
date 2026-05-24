@@ -63,6 +63,10 @@ To compile and create the library, type
 ```bash
 make
 ``` 
+or
+```bash
+make all
+``` 
 in the directory of libft. This will create the file libft.a that can be used to compile with other files to use the library.
 To clean the object files type 
 ```bash
