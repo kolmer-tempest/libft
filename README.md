@@ -1,7 +1,9 @@
-_This project has been created as partof the 42 curriculum by bpires-k_
+_This project has been created as part of the 42 curriculum by bpires-k._
 # Libft
 ## Description
-Libft is a librabry of essential functions that will be used through out my 42 curriculum, that deal with character analisis and manipulation, string manipulation, memory management, type conversion, writing and linked lists manipulation.
+Libft is a custom C library of essential functions that will be used throughout my 42 curriculum, that deal with character analysis and manipulation, string manipulation, memory management, type conversion, writing and linked lists manipulation.
+
+## Features
 
 ### Character analisis and manipulation:
 + ft_isalpha
@@ -14,7 +16,7 @@ Libft is a librabry of essential functions that will be used through out my 42 c
 ### String manipulation:
 + ft_strlen
 + ft_strlcpy
-+ ft_ftstrlcat
++ ft_strlcat
 + ft_strchr
 + ft_strrchr
 + ft_strncmp
@@ -57,17 +59,30 @@ Libft is a librabry of essential functions that will be used through out my 42 c
 + ft_lstmap
 
 ## Instructions
-Firstly to compile and create the library, type `make` in the directory of libft. This will create the file libft.a that can be used to compile with other files to use the library.
-To clean the object files type `make clean`.
-To clean the object files and the libft.a type `make fclean`.
-To recompile everything type `make re`.
+To compile and create the library, type 
+```bash
+make
+``` 
+in the directory of libft. This will create the file libft.a that can be used to compile with other files to use the library.
+To clean the object files type 
+```bash
+make clean
+``` 
+To clean the object files and the libft.a type
+```bash
+make fclean
+``` 
+To recompile everything type 
+```bash
+make re
+``` 
 
 ## Resources
 + Linux manuals and C documentation
-+ Code foruns to search for specific error cases
-+ Code blogs with diferent implementations
++ Code forums to search for specific error cases
++ Code blogs with different implementations
 + Youtube videos with coding theory and implementation tutorials
-+ AI was used to research about the subjets and implementation aproches
++ AI was used to research about the subjects, implementation approaches and understanding specific edge cases
 
 ## Testing and debugging
 I tested my project comparing the results of my implementations with the normal functions and with custom testers.
